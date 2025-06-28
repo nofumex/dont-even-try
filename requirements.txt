@@ -3,3 +3,4 @@ python-dotenv
 loguru
 playwright
 aiosqlite
+aiohttp>=3.8.5
